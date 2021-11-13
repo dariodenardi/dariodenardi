@@ -40,6 +40,15 @@ print("How many stars do you have?")
 print("Total stars gained: ", s.stars)
 ```
 
+```
+Output:
+--------------------------------
+Did you work today?
+I'm checking...
+Total commits: {{ COMMITS }}
+Total stars gained: {{ STARS }}
+```
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-

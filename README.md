@@ -30,6 +30,21 @@ me.say_hi()
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+import stats as s
+
+print("Did you work today?")
+print("I'm checking...")
+print("Total commits: ", s.commits)
+print("How many stars do you have?")
+# But I only know one star...
+print("Total stars gained: ", s.stars)
+```
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+print("How long did you work?")
 print("Loading...")
 print("Please wait....I'm thinking")
 ```
@@ -38,17 +53,8 @@ print("Please wait....I'm thinking")
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=dariodenardi&theme=onedark&column=7" /></a>
 </p>
 
-<!--
-**dariodenardi/dariodenardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://linkedin.com/in/dario-denardi"><img src="https://img.shields.io/badge/-Dario%20De%20Nardi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:dario.denardi@outlook.com"><img src="https://img.shields.io/badge/-dario.denardi@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
+    <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
+</p>

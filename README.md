@@ -20,11 +20,13 @@ me = Student()
 me.say_hi()
 ```
 
-<!--## 🔧 Technologies & Tools
+<!--### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)-->
+
+### 👨‍💻 How I spent my time
 
 ```python
 #!/usr/bin/python
@@ -48,6 +50,8 @@ I'm checking...
 Total commits:
 Total stars gained:
 ```
+
+### 🏆 GitHub Trophies
 
 ```python
 #!/usr/bin/python

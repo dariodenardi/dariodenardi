@@ -45,8 +45,8 @@ Output:
 --------------------------------
 Did you work today?
 I'm checking...
-Total commits: {{ COMMITS }}
-Total stars gained: {{ STARS }}
+Total commits:
+Total stars gained:
 ```
 
 ```python

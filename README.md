@@ -47,9 +47,9 @@ Output:
 -----------------------------------
 Did you work today? I'm not sure...
 I'm checking your works...
-Total commits:
+Total commits: 321
 How many stars do you have?
-Total stars gained:
+Total stars gained: 6
 ```
 
 ### 🏆 GitHub Trophies

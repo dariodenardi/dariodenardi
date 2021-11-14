@@ -20,11 +20,13 @@ me = Student()
 me.say_hi()
 ```
 
-<!--## 🔧 Technologies & Tools
+<!--### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)-->
+
+### 👨‍💻 How I spent my time
 
 ```python
 #!/usr/bin/python
@@ -32,8 +34,8 @@ me.say_hi()
 
 import stats as s
 
-print("Did you work today?")
-print("I'm checking...")
+print("Did you work today? I'm not sure...")
+print("I'm checking your works...")
 print("Total commits: ", s.commits)
 print("How many stars do you have?")
 # But I only know one star...
@@ -42,12 +44,15 @@ print("Total stars gained: ", s.stars)
 
 ```
 Output:
---------------------------------
-Did you work today?
-I'm checking...
+-----------------------------------
+Did you work today? I'm not sure...
+I'm checking your works...
 Total commits: {{ COMMITS }}
+How many stars do you have?
 Total stars gained: {{ STARS }}
 ```
+
+### 🏆 GitHub Trophies
 
 ```python
 #!/usr/bin/python

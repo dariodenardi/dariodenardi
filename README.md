@@ -34,8 +34,8 @@ me.say_hi()
 
 import stats as s
 
-print("Did you work today?")
-print("I'm checking...")
+print("Did you work today? I'm not sure...")
+print("I'm checking your works...")
 print("Total commits: ", s.commits)
 print("How many stars do you have?")
 # But I only know one star...
@@ -44,10 +44,11 @@ print("Total stars gained: ", s.stars)
 
 ```
 Output:
---------------------------------
-Did you work today?
-I'm checking...
+-----------------------------------
+Did you work today? I'm not sure...
+I'm checking your works...
 Total commits:
+How many stars do you have?
 Total stars gained:
 ```
 

@@ -47,12 +47,12 @@ Output:
 -----------------------------------
 Did you work today? I'm not sure...
 I'm checking your works...
-Total commits: 547
+Total commits: 548
 How many stars do you have?
 Total stars gained: 13
 ```
 
-### 🏆 Stats
+### 📈 Stats
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=dariodenardi&theme=onedark&column=7" /></a>

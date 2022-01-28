@@ -1,4 +1,4 @@
-## Hi, Nice to Meet You <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi, Nice to Meet You <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ```python
 #!/usr/bin/python
@@ -26,7 +26,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)-->
 
-### 👨‍💻 How I spent my time
+## 👨‍💻 How I spent my time
 
 ```python
 #!/usr/bin/python
@@ -52,7 +52,7 @@ How many stars do you have?
 Total stars gained: {{ STARS }}
 ```
 
-### 📈 Stats
+## 📈 Stats
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=dariodenardi&theme=onedark&column=7" /></a>

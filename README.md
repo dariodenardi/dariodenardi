@@ -1,4 +1,4 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You :blush:
+## Hi, Nice to Meet You <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ```python
 #!/usr/bin/python
@@ -47,21 +47,12 @@ Output:
 -----------------------------------
 Did you work today? I'm not sure...
 I'm checking your works...
-Total commits: 546
+Total commits: 547
 How many stars do you have?
 Total stars gained: 13
 ```
 
-### 🏆 GitHub Trophies
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-print("How long did you work?")
-print("Loading...")
-print("Please wait....I'm thinking")
-```
+### 🏆 Stats
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=dariodenardi&theme=onedark&column=7" /></a>

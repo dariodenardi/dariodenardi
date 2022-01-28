@@ -52,7 +52,7 @@ How many stars do you have?
 Total stars gained: {{ STARS }}
 ```
 
-### 🏆 Stats
+### 📈 Stats
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=dariodenardi&theme=onedark&column=7" /></a>

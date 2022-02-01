@@ -8,7 +8,13 @@
     <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 </p>
 
-## 🏋 About me
+## 📈 Github Stats
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=dariodenardi&theme=nord&column=7" /></a>
+</p>
+
+## 🏋 About Me
 
 ```python
 #!/usr/bin/python
@@ -61,9 +67,3 @@ Total commits: {{ COMMITS }}
 How many stars do you have?
 Total stars gained: {{ STARS }}
 ```
-
-## 📈 Stats
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=dariodenardi&theme=onedark&column=7" /></a>
-</p>

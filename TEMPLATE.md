@@ -1,4 +1,14 @@
-# Hi, Nice to Meet You <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<h1 align="center">
+  Hi, Nice to Meet You! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
+
+<p align="center">   
+  <a href="mailto:dario.denardi@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"></a>
+  <a href="https://linkedin.com/in/dario-denardi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
+    <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
+</p>
+
+## 🏋 About me
 
 ```python
 #!/usr/bin/python
@@ -56,10 +66,4 @@ Total stars gained: {{ STARS }}
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=dariodenardi&theme=onedark&column=7" /></a>
-</p>
-
-<p align="center">
-    <a href="https://linkedin.com/in/dario-denardi"><img src="https://img.shields.io/badge/-Dario%20De%20Nardi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:dario.denardi@outlook.com"><img src="https://img.shields.io/badge/-dario.denardi@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
-    <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 </p>

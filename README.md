@@ -11,7 +11,7 @@
 ## 📈 Github Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=dariodenardi&theme=nord&column=7" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=dariodenardi&theme=chalk&column=7" /></a>
 </p>
 
 ## 🏋 About Me
@@ -63,7 +63,7 @@ Output:
 -----------------------------------
 Did you work today? I'm not sure...
 I'm checking your works...
-Total commits: 579
+Total commits: 580
 How many stars do you have?
 Total stars gained: 14
 ```

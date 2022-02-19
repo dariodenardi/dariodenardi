@@ -30,16 +30,40 @@ me = Student()
 me.say_hi()
 ```
 
+<!--### 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)-->
+
+## 👨‍💻 How I spent my time
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+import stats as s
+
+print("Did you work today? I'm not sure...")
+print("I'm checking your works...")
+print("Total commits: ", s.commits)
+print("How many stars do you have?")
+# But I only know one star...
+print("Total stars gained: ", s.stars)
+```
+
+```
+Output:
+-----------------------------------
+Did you work today? I'm not sure...
+I'm checking your works...
+Total commits: 652
+How many stars do you have?
+Total stars gained: 19
+```
+
 ## 📈 Github Stats
 
-<div align="center">
-    <img alt="Dario De Nardi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dariodenardi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" height="200"/>
-    <img alt="Dario De Nardi's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=dariodenardi&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=FFFFFF&sideLabels=0078D4&currStreakLabel=0078D4&stroke=0078D4&ring=0078D4" />
-  </div>
-
-  <hr/>
-
-  <div>
-    <img alt="Dario De Nardi's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=thiagodesouza&custom_title=Dario%20De%20Nardi's%20Contribution%20Graph&bg_color=0D1117&color=0078D4&line=FFFFFF&point=0078D4&hide_border=true" />
-  <div>
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=dariodenardi&theme=onedark&column=7" /></a>
+</p>
